@@ -1,6 +1,6 @@
 # DrWh0's unofficial computer cores for Sidi
 
-Unofficial Sidi ports of various MiST FPGA computer cores
+Unofficial Sidi cores ported from MiST FPGA by DrWh0
 
 Original MiST cores:
 
