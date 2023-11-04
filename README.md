@@ -1,9 +1,11 @@
-# DrWh0's unofficial computer cores for Sidi (Mist ported)
+# DrWh0's unofficial computer cores for Sidi
 
-Unofficial Sidi ports of various MiST FPGA computer cores by DrWh0
+Unofficial Sidi ports of various MiST FPGA computer cores
 
 Original MiST cores:
-https://github.com/Gehstock/Mist_FPGA/tree/master/Computer_MiST/
+
+* https://github.com/Gehstock/Mist_FPGA/tree/master/Computer_MiST/
 
 Common MiST components:
-https://github.com/mist-devel/mist-modules
+
+* https://github.com/mist-devel/mist-modules
