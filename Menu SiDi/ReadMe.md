@@ -5,7 +5,7 @@ Unofficial port from Mist by DrWh0
 Is required to update your SiDi firmware to version 240105
 
 
-Put [this core](https://github.com/Dalekamistoso/drwh0-computer-sidi/releases/menu.rbf) to the root of SD card with name **core.rbf**. 
+Put [this core](https://github.com/Dalekamistoso/drwh0-computer-sidi/release/menu.rbf) to the root of SD card with name **core.rbf**. 
 It will be loaded automatically upon MIST startup and menu will be displayed. 
 
 ![screenshot](menu.png)
