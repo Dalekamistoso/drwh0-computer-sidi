@@ -1,4 +1,4 @@
-## It's a simple startup core to display menu in Sidi FPGA.
+## It's a simple startup core to display menu in SiDi FPGA.
 
 Unofficial port from Mist by DrWh0
 
