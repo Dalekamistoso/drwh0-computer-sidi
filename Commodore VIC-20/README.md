@@ -1,4 +1,8 @@
-# VIC-20 for [MIST Board](https://github.com/mist-devel/mist-board/wiki)
+# Unofficial SiDi port by DrWh0
+
+Original readme:
+
+VIC-20 for [MIST Board](https://github.com/mist-devel/mist-board/wiki)
 
 ### Features:
 - Based on [The Replay Board](http://www.fpgaarcade.com/kb/commodore-vic-20/) code
