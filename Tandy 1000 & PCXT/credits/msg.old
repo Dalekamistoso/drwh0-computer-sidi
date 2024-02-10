@@ -1,0 +1,120 @@
+\R                (            *      (            )          
+\G                )\\ )       (  `     )\\ )  (   ( /(   *   ) 
+\R               (()/(    (  )\\))(   (()/(  )\\  )\\())` )  /( 
+\R                /(_))  ))\\((_)()\\   /(_)|((_)((_)\\  ( )(_))
+\W               (_))_  /((_|_()((_| (_)) )\\_____((_)(_(_()) 
+\W                |   \\(_)) |  \\/  | | _ ((/ __\\ \\/ /|_   _| 
+\W                | |) / -_)| |\\/| | |  _/| (__ >  <   | |   
+\W                |___/\\___||_|  |_| |_|   \\___/_/\\_\\  |_|  
+                                  
+\W                & Tandy 1000                     by \Gspark2k06
+
+                              Aitor Gomez Garcia
+                          https://ko-fi.com/spark2k06
+
+                             DeMiSTified by somhi
+                           https://github.com/somhi
+
+                                  \BPOWERED BY
+
+                             KFPC-XT * kitune-san
+                          https://github.com/kitune-san
+
+                              MCL86 * Ted Fried
+                          http://www.microcorelabs.com/
+
+                           GraphicsGremlin * TubeTime
+                              https://tubetime.us/
+
+                          DeMiSTify * Alastair M.Robinson
+                           https://github.com/robinsonb5
+                           
+                           MiST modules & MiST firmware
+                    special thanks to @Gyurco for IDE support
+                           https://github.com/mist-devel
+
+                                     \BALSO
+
+                           JTOPL * JT89 * JTCREDITS
+                              Jose Tejada (jotego)
+                          https://www.patreon.com/jotego
+
+                              MS Mouse PS2 to Serial
+                           Antonio Sanchez (TheSonders)
+                          https://github.com/TheSonders
+
+                              SAA1099 (Tandy Sound)
+                             Dave Hooper (stripwax)
+                          https://github.com/stripwax
+
+                              SAA1099 (Tandy Sound)
+                          M. A. Rodr. Jodar (mcleod-ideafix)
+                          https://github.com/mcleod-ideafix
+
+                            2 Button Analog Joysticks
+                                   Flandango
+                          https://github.com/Flandango
+
+                                   UART 16550
+                                   H. LeFevre
+
+                  ____________________________________________
+
+                            \BDEVELOPERS \W& \GCO-WORKERS
+
+                          Aitor Gomez Garcia (spark2k06)
+                                  kitune-san
+                           Ted Fried (MicroCoreLabs)
+                                   somhi
+                           David Gila Blazquez (Mills)
+                                 flynnsbit
+                            Jason Alexander (JasonA)
+                                  Newsdee   
+                                  birdybro
+                            Pedro Gimeno (pgimeno)
+                               Jordi (jsmolina)
+
+                  ____________________________________________
+
+                                \BSpecial Thanks
+
+                      https://www.xtideuniversalbios.org/
+                      https://www.lo-tech.co.uk
+                      https://github.com/640-KB/GLaBIOS
+                      https://github.com/virtualxt/pcxtbios
+                      https://github.com/skiselev/8088_bios
+                      Alejandro Valero Sebastian (Wilco2009)
+                                   naeloob
+                                   gyurco
+
+                  ____________________________________________
+
+                      \BThanks for supporting this project!!!
+
+                              MiSTerFPGA.co.uk
+                                  Adr1048
+                                TonyEscobar
+                                 Kathleen
+                               Jordi (jsmolina)
+                                  thorr
+                                  Caldor
+
+                  ____________________________________________
+
+                              \RReport issues to
+                     https://github.com/somhi/PCXT_DeMiSTify
+
+
+                              \BSome Known Issues
+
+                   * Keyboard error controller message with 
+                   Turbo mode. Please start BIOS with 4.77 
+                   MHz to avoid this error.
+
+                   * When pressing F12 for opening the OSD it 
+                   sends a keystroke to the DOS program so it 
+                   can interfere it
+
+                   * The AREA5150 demo has graphical glitches.
+
+
