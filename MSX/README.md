@@ -1,4 +1,4 @@
-# DrWh0's OneChipMSX unofficial port for [Sidi Board]
+# DrWh0's OneChipMSX unofficial port for [Sidi & [deMISTified Boards]
 
 Ported from:
 
@@ -6,12 +6,14 @@ https://github.com/mist-devel/mist-board/wiki
 
 https://github.com/mist-devel/MSX_MiST/tree/master (Mist Core main repository)
 
-This is my own functional port of the latest MSX core for Sidi FPGA ported from the Mist core.
+This is my own functional port of the latest MSX core for Sidi & Sidi 128 FPGA ported from the Mist core.
 
 It features:
 
 * The lastest source updates in the last two years
 * UART support (Wifi+Midi....)
+* OPL From Jotego core
+* Mist modules updates
 
 Use at your own risk!
 
@@ -30,7 +32,15 @@ Original readme of the Mist module:
 
 ### Usage:
 
-The core requires an SD-Card formatted for FAT16, and the first file in the root directory must be the MSX BIOS. However if it's inconvenient to use a separate card, then a virtual SD-Card also can be used in the form of a MSX.VHD file in the root directory of your main SD-Card. To prepare the storage, please refer to the [KdL's site](https://gnogni.altervista.org/), especially OCM-Extra Pack, which has the BIOS and the SDCreate utility. Or you can find/ask for a .vhd file in [Atari-Forum](http://www.atari-forum.com/viewtopic.php?f=115&t=30889).
+The core requires an SD-Card formatted for FAT16, and the first file in the root directory must be the MSX BIOS. 
+However if it's inconvenient to use a separate card, then a virtual SD-Card also can be used in the form of a MSX.VHD 
+file in the root directory of your main SD-Card. To prepare the storage, please refer to the [KdL's site]:
+
+(https://gnogni.altervista.org/), especially OCM-Extra Pack, which has the BIOS and the SDCreate utility. 
+
+Or you can find/ask for a .vhd file in:
+
+[Atari-Forum](http://www.atari-forum.com/viewtopic.php?f=115&t=30889).
 
 ### Download precompiled binaries and system ROMs:
 Go to [mist-binaries](https://github.com/mist-devel/mist-binaries/tree/master/cores/msx). Copy the rbf

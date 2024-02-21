@@ -1,0 +1,9 @@
+PLLJ_PLLSPE_INFO.txt
+*.bak
+*.qws
+build_id.v
+db/
+incremental_db/
+output_files/
+greybox_tmp/
+
