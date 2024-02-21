@@ -19,3 +19,6 @@ Original MiST cores:
 Common MiST components:
 
 * https://github.com/mist-devel/mist-modules
+
+* From 21/02/2024 the new sources are derived from:
+  https://github.com/DeMistified/MSX_deMiSTified
